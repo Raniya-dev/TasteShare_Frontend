@@ -11,7 +11,7 @@ import ReactDOM from "react-dom/client"
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import RootLayout from './layout/RootLayout.jsx'
 import Home from './components/recipefinderUI/Home.jsx'
-import SearchBying from './components/recipefinderUI/SearchBying.JSX'
+import SearchBying from './components/recipefinderUI/SearchBying.jsx'
 import RecipeDetailing from './components/recipefinderUI/RecipeDetailing.jsx'
 import Saved from './components/recipefinderUI/Saved.jsx'
 import Chatbot from './components/recipefinderUI/Chatbot.jsx'
