@@ -85,10 +85,8 @@ const router = createBrowserRouter([
 ]
     
   }
-],
-{
-  basename: "/TasteShare_Frontend/"
-}
+]
+
 
 )
 
