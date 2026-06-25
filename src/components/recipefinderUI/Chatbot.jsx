@@ -25,7 +25,7 @@ export default function ChatBot() {
 
     try {
         const response = await fetch(
-            "http://localhost:5000/api/chat",
+            "https://tasteshare-server.onrender.com/api/chat",
             {
                 method: "POST",
                 headers: {
