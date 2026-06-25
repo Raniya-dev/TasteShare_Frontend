@@ -87,7 +87,7 @@ const router = createBrowserRouter([
   }
 ],
 {
-  basename: "/Recipe_finder_platform/"
+  basename: "/TasteShare_Frontend/"
 }
 
 )
